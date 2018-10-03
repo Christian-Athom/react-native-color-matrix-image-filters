@@ -36,7 +36,7 @@
     "fast-memoize": "2.5.1",
     "react": "16.5.1",
     "react-native": "0.57.1",
-    "react-native-color-matrix-image-filters": "file:../",
+    "react-native-color-matrix-image-filters": "1.0.13",
     "react-native-color-wheel": "0.1.5",
     "react-native-image-picker": "0.26.10",
     "react-native-portal": "1.3.0",
